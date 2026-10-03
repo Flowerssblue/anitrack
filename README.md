@@ -14,7 +14,7 @@ Ve a la sección [Releases](../../releases/latest) y descarga el archivo `AniTra
 2. Ábrelo. Si Android lo pide, permite instalar aplicaciones desde esta fuente (el navegador o el administrador de archivos que usaste).
 3. Pulsa **Instalar**.
 
-Requiere Android 6.0 o superior.
+Requiere Android 7.0 o superior.
 
 ## Actualizaciones
 
